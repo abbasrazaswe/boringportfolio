@@ -33,7 +33,7 @@ const About: React.FC = () => {
             My approach centers on <strong className="font-semibold text-black dark:text-white">domain-driven design, modular service boundaries, and workflow orchestration</strong>, with an emphasis on data integrity, fault tolerance, observability, and operational scalability.
           </p>
           <div className="pt-4 text-base text-neutral-500 dark:text-neutral-400 italic border-t border-neutral-200 dark:border-neutral-800">
-            “Fate’s been written, so I’ve decided to rewrite the code.      - Freidrich Neitzsche”
+            “Fate’s been written, so I’ve decided to rewrite the code.      - Abbas Raza”
           </div>
         </motion.div>
       </div>
